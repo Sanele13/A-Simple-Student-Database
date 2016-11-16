@@ -1,0 +1,12 @@
+Name: Sanele Mpangalala
+Date: 29 February 2016
+Assignment 1 : Simple Student Database
+
+Description: Program to store student data into a database, with a goal of being able to manipulate the data.
+
+Files: driver.cpp, database.cpp, database.h
+
+Compilation and running:
+To compile-> make
+To clean-> make clean
+To run-> ./driver.run
